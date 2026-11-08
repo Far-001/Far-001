@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anton - Python backend developer</h1>
+<h1 align="center">Hi 👋, I'm Anton - DevOps Engineer and Python backend developer</h1>
 
 - 🌱 I’m currently learning **FastAPI, data processing algorithms, SOLID**
 
